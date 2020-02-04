@@ -1,0 +1,9 @@
+﻿  BinarySearchTree.cpp
+  Definition.cpp
+  Main.cpp
+C:\Users\purle\Desktop\CSC324_Data_Structures\Binary Search Tree (2)\Binary Search Tree\Binary Search Tree\Main.cpp(237,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\purle\Desktop\CSC324_Data_Structures\Binary Search Tree (2)\Binary Search Tree\Binary Search Tree\Main.cpp(248,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\purle\Desktop\CSC324_Data_Structures\Binary Search Tree (2)\Binary Search Tree\Binary Search Tree\BinarySearchTree.cpp(239): warning C4172: returning address of local variable or temporary: tempNode
+C:\Users\purle\Desktop\CSC324_Data_Structures\Binary Search Tree (2)\Binary Search Tree\Binary Search Tree\BinarySearchTree.cpp(327): warning C4172: returning address of local variable or temporary: tempNode
+  Binary Search Tree.vcxproj -> C:\Users\purle\Desktop\CSC324_Data_Structures\Binary Search Tree (2)\Binary Search Tree\Debug\Binary Search Tree.exe
